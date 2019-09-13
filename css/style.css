@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Console', Courier, monospace;
+}
+
+.header{   
+    background: #000000;
+    width: 100%;
+    height: 230px;
+    margin: 0 auto;
+    border-radius: 10px;
+    position: relative;
+
+}
+
+.p {
+      text-align: center;
+      position: relative;
+      
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding-top: 70px;
+    position: relative;
+
+}
+
+.kotak_1 {
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    border-radius: 10px;
+    margin: 50px auto;
+    box-shadow: 2px 2px 7px 2px grey;
+    position: relative;
+}
+
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.4;
+    border-radius: 10px;
+}
+
+.kotak_1_profil {
+    position: relative;
+    width: 200px;
+    padding-top:  3px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+.kotak_1_profil img {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    position: relative;
+}
+
+.kotak_2 {
+    position: relative;
+    width: 100%;
+    height: 450px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.kata_kotak_2 {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.kotak_2_kata {
+    width: 100%;
+    height: 120px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+    position: relative;
+}
+
+.garis {
+    border-bottom: 5px solid gray;
+    padding: 5px;
+    text-align: center;
+}
+
+.kotak3{
+    width: 100%;
+    height: 350px;
+    padding-top: 70px;
+    margin: 0 auto;
+    position: relative;
+ 
+}
+
+.isi_kotak3{
+    width: 50%;
+    height: 350px;
+    margin-top: 10px;
+    float: left;
+    position: relative;
+}
+
+.about {
+    text-align: justify;
+    position: relative;
+    padding-top: 20px;
+}
+
+.personal {
+    text-align: center;
+    position: relative;
+    padding-top: 90px;
+}
+
+.educations {
+    text-align: center;
+    position: relative;
+
+}
+
+.experiences {
+    text-align: center;
+    position: relative;
+ 
+    
+}
+
+
+.sertifikasi{
+    text-align: center;
+    position: relative;
+}
+
+.footer {
+    background: #000000;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    color: white;
+    padding-bottom: 30px;
+    position: relative;
+}
